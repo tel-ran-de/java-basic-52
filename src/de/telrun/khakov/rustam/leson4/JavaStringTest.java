@@ -1,6 +1,5 @@
 package de.telrun.khakov.rustam.leson4;
 
-import java.util.Scanner;
 
 /**
  * @author Rustam Khakov
