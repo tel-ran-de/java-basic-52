@@ -4,7 +4,7 @@ package de.telrun.khakov.rustam.leson4;
  * @author Rustam Khakov
  */
 public class CharTest {
-	public static void main(String[] args) {
+	public static void main(String[] test) {
 		char g = 'g';
 		int v = 's' + 'g';// s -> int / g -> int
 		int one = '9' - 48;//
